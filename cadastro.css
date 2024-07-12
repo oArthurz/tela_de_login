@@ -1,0 +1,41 @@
+body
+{
+    background-color: black;
+    text-align:center;
+    color: white;
+}
+
+.welcome
+{
+    color: blue;
+    text-align: center;
+}
+
+.login
+{
+    color: blue;
+    text-align: center;
+}
+
+.data
+{
+    text-align: left;
+    color: blue;
+}
+
+#formulario button
+{
+    background-color: blue;
+    color: black;
+}
+
+.name
+{
+    text-align: left;
+}
+
+.imagem
+{
+    height: 200px;
+    width: 200px;
+}
